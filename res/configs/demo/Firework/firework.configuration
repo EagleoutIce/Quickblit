@@ -1,0 +1,7 @@
+//Config file Version 1.0
+NAME    = Feuerwerk
+width   = 600
+height  = 400
+scale   = 2
+FPS=35
+filter  = NO

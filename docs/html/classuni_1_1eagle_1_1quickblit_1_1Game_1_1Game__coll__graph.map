@@ -1,0 +1,24 @@
+<map id="uni.eagle.quickblit.Game.Game" name="uni.eagle.quickblit.Game.Game">
+<area shape="rect" id="node2" href="$classuni_1_1eagle_1_1quickblit_1_1General_1_1GameCore.html" title="uni.eagle.quickblit.General.\lGameCore" alt="" coords="717,348,896,389"/>
+<area shape="rect" id="node5" href="$classuni_1_1eagle_1_1quickblit_1_1IO_1_1InputHandler.html" title="liefert die Möglichkeit Tastatureingaben zu verarbeiten. " alt="" coords="355,407,532,448"/>
+<area shape="rect" id="node7" href="$classuni_1_1eagle_1_1quickblit_1_1IO_1_1InputHandler_1_1Key.html" title="Internals. " alt="" coords="21,461,199,503"/>
+<area shape="rect" id="node8" href="$enumuni_1_1eagle_1_1quickblit_1_1General_1_1Enums_1_1GameState.html" title="liefert den Aktuellen Status des Spiels – sollte Selbsterklärend sein " alt="" coords="354,472,533,513"/>
+<area shape="rect" id="node10" href="$classuni_1_1eagle_1_1quickblit_1_1IO_1_1FontController.html" title="Stellt einen Controller zur Verfügung der eine Schriftart aus einer Bilddatei laden kann und eine sma..." alt="" coords="356,655,531,696"/>
+<area shape="rect" id="node27" href="$classuni_1_1eagle_1_1quickblit_1_1IO_1_1MessageBox.html" title="ermöglicht es eine Nachrichten Meldung auf den Bildschirm zu klatschen " alt="" coords="695,806,919,833"/>
+<area shape="rect" id="node13" href="$classuni_1_1eagle_1_1quickblit_1_1General_1_1UpdateController.html" title="Diese Klasse wird über den LoadParser mit den richtigen Einstellungen geladen. " alt="" coords="354,5,533,47"/>
+<area shape="rect" id="node14" href="$classuni_1_1eagle_1_1quickblit_1_1IO_1_1Sound_1_1SoundController.html" title="liefert die Möglichkeit Sound zu spielen. " alt="" coords="349,71,538,112"/>
+<area shape="rect" id="node17" href="$classuni_1_1eagle_1_1quickblit_1_1Management_1_1Configuration.html" title="liefert Einstellungen " alt="" coords="339,239,548,280"/>
+<area shape="rect" id="node18" href="$classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1Map_1_1Map.html" title="uni.eagle.quickblit.Graphics.\lMap.Map" alt="" coords="713,1295,900,1336"/>
+<area shape="rect" id="node32" href="$classuni_1_1eagle_1_1quickblit_1_1Management_1_1Pathfinder.html" title="uni.eagle.quickblit.Management.\lPathfinder" alt="" coords="1029,1253,1239,1295"/>
+<area shape="rect" id="node19" href="$interfaceuni_1_1eagle_1_1quickblit_1_1General_1_1Interfaces_1_1iRenderable.html" title="uni.eagle.quickblit.General.\lInterfaces.iRenderable" alt="" coords="21,1076,199,1117"/>
+<area shape="rect" id="node20" href="$classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1Sprite.html" title="uni.eagle.quickblit.Graphics.\lSprite" alt="" coords="350,967,537,1008"/>
+<area shape="rect" id="node25" href="$classuni_1_1eagle_1_1quickblit_1_1Game_1_1Player_1_1Player.html" title="uni.eagle.quickblit.Game.\lPlayer.Player" alt="" coords="1049,925,1219,967"/>
+<area shape="rect" id="node28" href="$classuni_1_1eagle_1_1quickblit_1_1Game_1_1Player_1_1Weapon.html" title="Liefert die Möglichkeit eine Waffe aufs Display zu bringen &#45; kann aus Zeitgründen nicht angreifen..." alt="" coords="722,995,891,1036"/>
+<area shape="rect" id="node21" href="$interfaceuni_1_1eagle_1_1quickblit_1_1General_1_1Interfaces_1_1iPoint.html" title="uni.eagle.quickblit.General.\lInterfaces.iPoint" alt="" coords="21,793,199,835"/>
+<area shape="rect" id="node22" href="$classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1SpriteSheet.html" title="uni.eagle.quickblit.Graphics.\lSpriteSheet" alt="" coords="17,860,203,901"/>
+<area shape="rect" id="node23" href="$classuni_1_1eagle_1_1quickblit_1_1Management_1_1SpriteTranslator.html" title="Liefert einen Übersetzer für Sprite informationen. " alt="" coords="339,1324,548,1365"/>
+<area shape="rect" id="node24" href="$classuni_1_1eagle_1_1quickblit_1_1Management_1_1Translator.html" title="uni.eagle.quickblit.Management.\lTranslator\&lt; Sprite \&gt;" alt="" coords="5,1324,215,1365"/>
+<area shape="rect" id="node26" href="$enumuni_1_1eagle_1_1quickblit_1_1Game_1_1Player_1_1Direction.html" title="macht Richtungen lesbarer &#45; sollte selbsterklärend sein. " alt="" coords="359,901,528,943"/>
+<area shape="rect" id="node31" href="$classuni_1_1eagle_1_1quickblit_1_1General_1_1Helper.html" title="stellt einige Hilfsfunktionen zur Verfügung " alt="" coords="717,1112,896,1153"/>
+<area shape="rect" id="node33" href="$enumuni_1_1eagle_1_1quickblit_1_1Management_1_1Pathfinder_1_1Mode.html" title="uni.eagle.quickblit.Management.\lPathfinder.Mode" alt="" coords="702,1229,911,1271"/>
+</map>

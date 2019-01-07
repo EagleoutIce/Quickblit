@@ -1,0 +1,9 @@
+//Dummy Map. Size: 5x3
+//Used for testing
+H#W W W W:2 H
+H W * W H
+W:3 H H W:1 W
+//Bezeichner über ' ' getrennt
+//Theoretisch über ':' mehrfach felder möglich
+//(also pille auf Feld fest)
+//Sonst möglich Karten übereinander zu zeichnen

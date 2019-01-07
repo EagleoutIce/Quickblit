@@ -1,0 +1,9 @@
+//Dummy Dictonary
+//Used for testing
+//TODO: Pfade anpassen
+W = /hedgehog.png:129,84
+//Bezeichner (beliebig lang) = [Pfad]:[startx],[starty]
+//Wird Größe auch benötigt? sonst fest 32x32
+H = /hedgehog.jpeg:32,32
+G = MAMA
+I = /hedgehog2.png:128:64

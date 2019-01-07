@@ -1,0 +1,150 @@
+<!-- HTML header for doxygen 1.8.11-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.15"/>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Mono:light">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Press+Start+2P">
+<title>Quickblit: src/uni/eagle/quickblit/Management/SpriteTranslator.java Quellcode</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtreedata.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:cf05388f2679ee054f2beb29a391d25f4e673ac3&amp;dn=gpl-2.0.txt GPL-v2 */
+  $(document).ready(initResizable);
+/* @license-end */</script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/searchdata.js"></script>
+<script type="text/javascript" src="search/search.js"></script>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:cf05388f2679ee054f2beb29a391d25f4e673ac3&amp;dn=gpl-2.0.txt GPL-v2 */
+  $(document).ready(function() { init_search(); });
+/* @license-end */
+</script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+<link href="customdoxygen.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectlogo"><img alt="Logo" src="ohnezahn_anim.gif" style="width:82px;height:70px;"/></td>
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">Quickblit
+   <span id="projectnumber">215</span>
+   </div>
+   <div id="projectbrief">Eine Java Engine - die innerhalb kürzester Zeit geschrieben wurde</div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Erzeugt von Doxygen 1.8.15 -->
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:cf05388f2679ee054f2beb29a391d25f4e673ac3&amp;dn=gpl-2.0.txt GPL-v2 */
+var searchBox = new SearchBox("searchBox", "search",false,'Suchen');
+/* @license-end */
+</script>
+  <div id="navrow1" class="tabs">
+    <ul class="tablist">
+      <li><a href="index.html"><span>Hauptseite</span></a></li>
+      <li><a href="namespaces.html"><span>Pakete</span></a></li>
+      <li><a href="annotated.html"><span>Klassen</span></a></li>
+      <li class="current"><a href="files.html"><span>Dateien</span></a></li>
+      <li>
+        <div id="MSearchBox" class="MSearchBoxInactive">
+        <span class="left">
+          <img id="MSearchSelect" src="search/mag_sel.png"
+               onmouseover="return searchBox.OnSearchSelectShow()"
+               onmouseout="return searchBox.OnSearchSelectHide()"
+               alt=""/>
+          <input type="text" id="MSearchField" value="Suchen" accesskey="S"
+               onfocus="searchBox.OnSearchFieldFocus(true)" 
+               onblur="searchBox.OnSearchFieldFocus(false)" 
+               onkeyup="searchBox.OnSearchFieldChange(event)"/>
+          </span><span class="right">
+            <a id="MSearchClose" href="javascript:searchBox.CloseResultsWindow()"><img id="MSearchCloseImg" border="0" src="search/close.png" alt=""/></a>
+          </span>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <div id="navrow2" class="tabs2">
+    <ul class="tablist">
+      <li><a href="files.html"><span>Auflistung&#160;der&#160;Dateien</span></a></li>
+    </ul>
+  </div>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:cf05388f2679ee054f2beb29a391d25f4e673ac3&amp;dn=gpl-2.0.txt GPL-v2 */
+$(document).ready(function(){initNavTree('SpriteTranslator_8java_source.html','');});
+/* @license-end */
+</script>
+<div id="doc-content">
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+<div class="header">
+  <div class="headertitle">
+<div class="title">SpriteTranslator.java</div>  </div>
+</div><!--header-->
+<div class="contents">
+<a href="SpriteTranslator_8java.html">gehe zur Dokumentation dieser Datei</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;</div><div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="keyword">package </span>uni.eagle.quickblit.Management;</div><div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;</div><div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;<span class="keyword">import</span> <a class="code" href="namespaceuni.html">uni</a>.<a class="code" href="namespaceuni_1_1eagle.html">eagle</a>.<a class="code" href="namespaceuni_1_1eagle_1_1quickblit.html">quickblit</a>.<a class="code" href="namespaceuni_1_1eagle_1_1quickblit_1_1General.html">General</a>.<a class="code" href="classuni_1_1eagle_1_1quickblit_1_1General_1_1GameCore.html">GameCore</a>;</div><div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;<span class="keyword">import</span> <a class="code" href="namespaceuni.html">uni</a>.<a class="code" href="namespaceuni_1_1eagle.html">eagle</a>.<a class="code" href="namespaceuni_1_1eagle_1_1quickblit.html">quickblit</a>.<a class="code" href="namespaceuni_1_1eagle_1_1quickblit_1_1General.html">General</a>.<a class="code" href="classuni_1_1eagle_1_1quickblit_1_1General_1_1Helper.html">Helper</a>;</div><div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;<span class="keyword">import</span> <a class="code" href="namespaceuni.html">uni</a>.<a class="code" href="namespaceuni_1_1eagle.html">eagle</a>.<a class="code" href="namespaceuni_1_1eagle_1_1quickblit.html">quickblit</a>.<a class="code" href="namespaceuni_1_1eagle_1_1quickblit_1_1Graphics.html">Graphics</a>.<a class="code" href="classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1Sprite.html">Sprite</a>;</div><div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;<span class="keyword">import</span> <a class="code" href="namespaceuni.html">uni</a>.<a class="code" href="namespaceuni_1_1eagle.html">eagle</a>.<a class="code" href="namespaceuni_1_1eagle_1_1quickblit.html">quickblit</a>.<a class="code" href="namespaceuni_1_1eagle_1_1quickblit_1_1Graphics.html">Graphics</a>.<a class="code" href="classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1SpriteSheet.html">SpriteSheet</a>;</div><div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;</div><div class="line"><a name="l00015"></a><span class="lineno"><a class="line" href="classuni_1_1eagle_1_1quickblit_1_1Management_1_1SpriteTranslator.html">   15</a></span>&#160;<span class="keyword">public</span> <span class="keyword">class </span><a class="code" href="classuni_1_1eagle_1_1quickblit_1_1Management_1_1SpriteTranslator.html">SpriteTranslator</a> <span class="keyword">extends</span> <a class="code" href="classuni_1_1eagle_1_1quickblit_1_1Management_1_1Translator.html">Translator</a>&lt;Sprite&gt; {</div><div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;</div><div class="line"><a name="l00022"></a><span class="lineno"><a class="line" href="classuni_1_1eagle_1_1quickblit_1_1Management_1_1SpriteTranslator.html#a317062157d908f46436d3fc696ccce4d">   22</a></span>&#160;    <span class="keyword">public</span> <a class="code" href="classuni_1_1eagle_1_1quickblit_1_1Management_1_1SpriteTranslator.html#a317062157d908f46436d3fc696ccce4d">SpriteTranslator</a>(String path){super(path);}</div><div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;</div><div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;    @Override</div><div class="line"><a name="l00033"></a><span class="lineno"><a class="line" href="classuni_1_1eagle_1_1quickblit_1_1Management_1_1SpriteTranslator.html#af739b9918b65983d8db2c0f8eff2016a">   33</a></span>&#160;    <a class="code" href="classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1Sprite.html">Sprite</a> <a class="code" href="classuni_1_1eagle_1_1quickblit_1_1Management_1_1SpriteTranslator.html#af739b9918b65983d8db2c0f8eff2016a">createResource</a>(String arg1, String arg2, String arg3, String arg4) {</div><div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">new</span> <a class="code" href="classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1Sprite.html">Sprite</a>(<a class="code" href="classuni_1_1eagle_1_1quickblit_1_1General_1_1GameCore.html">GameCore</a>.<a class="code" href="classuni_1_1eagle_1_1quickblit_1_1General_1_1GameCore.html#a1ef740ef01fa0c8ba0146451e2ef77ff">getConfig</a>().<a class="code" href="classuni_1_1eagle_1_1quickblit_1_1Management_1_1Configuration.html#afcb01096fee1aa5224864efb57b6c5c2">getTileSize</a>(),<a class="code" href="classuni_1_1eagle_1_1quickblit_1_1General_1_1GameCore.html">GameCore</a>.<a class="code" href="classuni_1_1eagle_1_1quickblit_1_1General_1_1GameCore.html#a1ef740ef01fa0c8ba0146451e2ef77ff">getConfig</a>().<a class="code" href="classuni_1_1eagle_1_1quickblit_1_1Management_1_1Configuration.html#afcb01096fee1aa5224864efb57b6c5c2">getTileSize</a>(), <span class="keyword">new</span> <a class="code" href="classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1SpriteSheet.html">SpriteSheet</a>(arg2), <a class="code" href="classuni_1_1eagle_1_1quickblit_1_1General_1_1Helper.html">Helper</a>.<a class="code" href="classuni_1_1eagle_1_1quickblit_1_1General_1_1Helper.html#a5e5ef594b883f2dd69c782773f37c5f5">toInteger</a>(arg3,0), <a class="code" href="classuni_1_1eagle_1_1quickblit_1_1General_1_1Helper.html">Helper</a>.<a class="code" href="classuni_1_1eagle_1_1quickblit_1_1General_1_1Helper.html#a5e5ef594b883f2dd69c782773f37c5f5">toInteger</a>(arg4,0),arg1);</div><div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;    }</div><div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;</div><div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;    @Override</div><div class="line"><a name="l00041"></a><span class="lineno"><a class="line" href="classuni_1_1eagle_1_1quickblit_1_1Management_1_1SpriteTranslator.html#a0e70ca5854065f7d2030b26591d0d21a">   41</a></span>&#160;    <a class="code" href="classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1Sprite.html">Sprite</a> <a class="code" href="classuni_1_1eagle_1_1quickblit_1_1Management_1_1SpriteTranslator.html#a0e70ca5854065f7d2030b26591d0d21a">createDummy</a>() {</div><div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">new</span> <a class="code" href="classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1Sprite.html">Sprite</a>(32,32, <span class="keyword">new</span> <a class="code" href="classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1SpriteSheet.html">SpriteSheet</a>(<span class="stringliteral">&quot;/graphics/testimages/hedgehog.png&quot;</span>),100,100,<span class="stringliteral">&quot;DUMMY&quot;</span>);</div><div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;    }</div><div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;}</div><div class="ttc" id="classuni_1_1eagle_1_1quickblit_1_1Management_1_1SpriteTranslator_html_a317062157d908f46436d3fc696ccce4d"><div class="ttname"><a href="classuni_1_1eagle_1_1quickblit_1_1Management_1_1SpriteTranslator.html#a317062157d908f46436d3fc696ccce4d">uni.eagle.quickblit.Management.SpriteTranslator.SpriteTranslator</a></div><div class="ttdeci">SpriteTranslator(String path)</div><div class="ttdoc">Konstruktor. </div><div class="ttdef"><b>Definition:</b> <a href="SpriteTranslator_8java_source.html#l00022">SpriteTranslator.java:22</a></div></div>
+<div class="ttc" id="classuni_1_1eagle_1_1quickblit_1_1General_1_1GameCore_html"><div class="ttname"><a href="classuni_1_1eagle_1_1quickblit_1_1General_1_1GameCore.html">uni.eagle.quickblit.General.GameCore</a></div><div class="ttdef"><b>Definition:</b> <a href="GameCore_8java_source.html#l00062">GameCore.java:62</a></div></div>
+<div class="ttc" id="classuni_1_1eagle_1_1quickblit_1_1General_1_1GameCore_html_a1ef740ef01fa0c8ba0146451e2ef77ff"><div class="ttname"><a href="classuni_1_1eagle_1_1quickblit_1_1General_1_1GameCore.html#a1ef740ef01fa0c8ba0146451e2ef77ff">uni.eagle.quickblit.General.GameCore.getConfig</a></div><div class="ttdeci">static Configuration getConfig()</div><div class="ttdef"><b>Definition:</b> <a href="GameCore_8java_source.html#l00109">GameCore.java:109</a></div></div>
+<div class="ttc" id="namespaceuni_1_1eagle_html"><div class="ttname"><a href="namespaceuni_1_1eagle.html">uni.eagle</a></div></div>
+<div class="ttc" id="classuni_1_1eagle_1_1quickblit_1_1General_1_1Helper_html_a5e5ef594b883f2dd69c782773f37c5f5"><div class="ttname"><a href="classuni_1_1eagle_1_1quickblit_1_1General_1_1Helper.html#a5e5ef594b883f2dd69c782773f37c5f5">uni.eagle.quickblit.General.Helper.toInteger</a></div><div class="ttdeci">static int toInteger(String str)</div><div class="ttdoc">verwandelt einen String in einen Integer </div><div class="ttdef"><b>Definition:</b> <a href="Helper_8java_source.html#l00064">Helper.java:64</a></div></div>
+<div class="ttc" id="classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1SpriteSheet_html"><div class="ttname"><a href="classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1SpriteSheet.html">uni.eagle.quickblit.Graphics.SpriteSheet</a></div><div class="ttdef"><b>Definition:</b> <a href="SpriteSheet_8java_source.html#l00011">SpriteSheet.java:11</a></div></div>
+<div class="ttc" id="classuni_1_1eagle_1_1quickblit_1_1Management_1_1SpriteTranslator_html"><div class="ttname"><a href="classuni_1_1eagle_1_1quickblit_1_1Management_1_1SpriteTranslator.html">uni.eagle.quickblit.Management.SpriteTranslator</a></div><div class="ttdoc">Liefert einen Übersetzer für Sprite informationen. </div><div class="ttdef"><b>Definition:</b> <a href="SpriteTranslator_8java_source.html#l00015">SpriteTranslator.java:15</a></div></div>
+<div class="ttc" id="classuni_1_1eagle_1_1quickblit_1_1Management_1_1SpriteTranslator_html_a0e70ca5854065f7d2030b26591d0d21a"><div class="ttname"><a href="classuni_1_1eagle_1_1quickblit_1_1Management_1_1SpriteTranslator.html#a0e70ca5854065f7d2030b26591d0d21a">uni.eagle.quickblit.Management.SpriteTranslator.createDummy</a></div><div class="ttdeci">Sprite createDummy()</div><div class="ttdef"><b>Definition:</b> <a href="SpriteTranslator_8java_source.html#l00041">SpriteTranslator.java:41</a></div></div>
+<div class="ttc" id="classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1Sprite_html"><div class="ttname"><a href="classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1Sprite.html">uni.eagle.quickblit.Graphics.Sprite</a></div><div class="ttdef"><b>Definition:</b> <a href="Sprite_8java_source.html#l00010">Sprite.java:10</a></div></div>
+<div class="ttc" id="namespaceuni_1_1eagle_1_1quickblit_html"><div class="ttname"><a href="namespaceuni_1_1eagle_1_1quickblit.html">uni.eagle.quickblit</a></div></div>
+<div class="ttc" id="namespaceuni_html"><div class="ttname"><a href="namespaceuni.html">uni</a></div></div>
+<div class="ttc" id="classuni_1_1eagle_1_1quickblit_1_1Management_1_1Configuration_html_afcb01096fee1aa5224864efb57b6c5c2"><div class="ttname"><a href="classuni_1_1eagle_1_1quickblit_1_1Management_1_1Configuration.html#afcb01096fee1aa5224864efb57b6c5c2">uni.eagle.quickblit.Management.Configuration.getTileSize</a></div><div class="ttdeci">int getTileSize()</div><div class="ttdef"><b>Definition:</b> <a href="Configuration_8java_source.html#l00029">Configuration.java:29</a></div></div>
+<div class="ttc" id="namespaceuni_1_1eagle_1_1quickblit_1_1Graphics_html"><div class="ttname"><a href="namespaceuni_1_1eagle_1_1quickblit_1_1Graphics.html">uni.eagle.quickblit.Graphics</a></div><div class="ttdoc">liefert alle Komponenten die dazu benötigt werden um Grafiken anzuzeigen </div></div>
+<div class="ttc" id="classuni_1_1eagle_1_1quickblit_1_1General_1_1Helper_html"><div class="ttname"><a href="classuni_1_1eagle_1_1quickblit_1_1General_1_1Helper.html">uni.eagle.quickblit.General.Helper</a></div><div class="ttdoc">stellt einige Hilfsfunktionen zur Verfügung </div><div class="ttdef"><b>Definition:</b> <a href="Helper_8java_source.html#l00011">Helper.java:11</a></div></div>
+<div class="ttc" id="classuni_1_1eagle_1_1quickblit_1_1Management_1_1Translator_html"><div class="ttname"><a href="classuni_1_1eagle_1_1quickblit_1_1Management_1_1Translator.html">uni.eagle.quickblit.Management.Translator</a></div><div class="ttdoc">liefert einen Übersetzer der es ermöglicht Kartendaten auf Sprites zuzordnen </div><div class="ttdef"><b>Definition:</b> <a href="Translator_8java_source.html#l00016">Translator.java:16</a></div></div>
+<div class="ttc" id="namespaceuni_1_1eagle_1_1quickblit_1_1General_html"><div class="ttname"><a href="namespaceuni_1_1eagle_1_1quickblit_1_1General.html">uni.eagle.quickblit.General</a></div><div class="ttdoc">dieses Package liefert generelle, für die Engine relevante Komponenten </div></div>
+<div class="ttc" id="classuni_1_1eagle_1_1quickblit_1_1Management_1_1SpriteTranslator_html_af739b9918b65983d8db2c0f8eff2016a"><div class="ttname"><a href="classuni_1_1eagle_1_1quickblit_1_1Management_1_1SpriteTranslator.html#af739b9918b65983d8db2c0f8eff2016a">uni.eagle.quickblit.Management.SpriteTranslator.createResource</a></div><div class="ttdeci">Sprite createResource(String arg1, String arg2, String arg3, String arg4)</div><div class="ttdoc">Erstellt die Ressource. </div><div class="ttdef"><b>Definition:</b> <a href="SpriteTranslator_8java_source.html#l00033">SpriteTranslator.java:33</a></div></div>
+</div><!-- fragment --></div><!-- contents -->
+</div><!-- doc-content -->
+<!-- HTML footer for doxygen 1.8.15-->
+<!-- start footer part -->
+<div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
+  <ul>
+    <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="dir_450574ce7697505a36667800b9197c44.html">uni</a></li><li class="navelem"><a class="el" href="dir_3a6b5d13f7dab03dfc1bc2ee086c3118.html">eagle</a></li><li class="navelem"><a class="el" href="dir_c3de2b024c13a6d56e9e15d2e1f424b8.html">quickblit</a></li><li class="navelem"><a class="el" href="dir_5855c741cc4e29d78d16cbf9c7c8295f.html">Management</a></li><li class="navelem"><a class="el" href="SpriteTranslator_8java.html">SpriteTranslator.java</a></li>
+    <li class="footer">[1.0.8] <b>EagleoutIce</b> und <b>YellowBlizzard</b> 07.01.2019 22:23:30 </li>
+  </ul>
+</div>
+</body>
+</html>

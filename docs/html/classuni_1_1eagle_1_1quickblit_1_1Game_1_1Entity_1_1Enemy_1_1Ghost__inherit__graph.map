@@ -1,0 +1,6 @@
+<map id="uni.eagle.quickblit.Game.Entity.Enemy.Ghost" name="uni.eagle.quickblit.Game.Entity.Enemy.Ghost">
+<area shape="rect" id="node2" href="$classuni_1_1eagle_1_1quickblit_1_1Game_1_1Entity_1_1Enemy_1_1Enemy.html" title="Erweitert die Entity&#45;Klasse um Eigenschaften eines Gegners. " alt="" coords="449,39,619,80"/>
+<area shape="rect" id="node3" href="$classuni_1_1eagle_1_1quickblit_1_1Game_1_1Entity_1_1Entity.html" title="liefert die Entity Struktur, jede Kreatur/jedes Item erbt von dieser Kreatur " alt="" coords="232,39,401,80"/>
+<area shape="rect" id="node4" href="$interfaceuni_1_1eagle_1_1quickblit_1_1General_1_1Interfaces_1_1iRenderable.html" title="uni.eagle.quickblit.General.\lInterfaces.iRenderable" alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node5" href="$interfaceuni_1_1eagle_1_1quickblit_1_1General_1_1Interfaces_1_1iPoint.html" title="uni.eagle.quickblit.General.\lInterfaces.iPoint" alt="" coords="5,71,184,112"/>
+</map>

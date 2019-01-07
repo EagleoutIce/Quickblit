@@ -1,0 +1,10 @@
+<map id="uni.eagle.quickblit.General.Interfaces.iPoint" name="uni.eagle.quickblit.General.Interfaces.iPoint">
+<area shape="rect" id="node2" href="$classuni_1_1eagle_1_1quickblit_1_1Game_1_1Entity_1_1Entity.html" title="liefert die Entity Struktur, jede Kreatur/jedes Item erbt von dieser Kreatur " alt="" coords="259,37,429,79"/>
+<area shape="rect" id="node6" href="$classuni_1_1eagle_1_1quickblit_1_1Game_1_1Player_1_1Player.html" title="uni.eagle.quickblit.Game.\lPlayer.Player" alt="" coords="259,103,429,144"/>
+<area shape="rect" id="node7" href="$classuni_1_1eagle_1_1quickblit_1_1General_1_1Helper_1_1Point.html" title="uni.eagle.quickblit.General.\lHelper.Point" alt="" coords="255,168,433,209"/>
+<area shape="rect" id="node8" href="$classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1Sprite.html" title="uni.eagle.quickblit.Graphics.\lSprite" alt="" coords="251,233,437,275"/>
+<area shape="rect" id="node9" href="$classuni_1_1eagle_1_1quickblit_1_1IO_1_1MessageBox.html" title="ermöglicht es eine Nachrichten Meldung auf den Bildschirm zu klatschen " alt="" coords="232,299,456,326"/>
+<area shape="rect" id="node3" href="$classuni_1_1eagle_1_1quickblit_1_1Game_1_1Entity_1_1Enemy_1_1Enemy.html" title="Erweitert die Entity&#45;Klasse um Eigenschaften eines Gegners. " alt="" coords="504,5,673,47"/>
+<area shape="rect" id="node5" href="$classuni_1_1eagle_1_1quickblit_1_1Game_1_1Entity_1_1Items_1_1Item.html" title="Liefert die Möglichkeit Items auf der Karte zu platzieren. " alt="" coords="504,71,673,112"/>
+<area shape="rect" id="node4" href="$classuni_1_1eagle_1_1quickblit_1_1Game_1_1Entity_1_1Enemy_1_1Ghost.html" title="eine Beispielimplementation dafür, wie man Gegner erstellen kann " alt="" coords="721,5,891,47"/>
+</map>

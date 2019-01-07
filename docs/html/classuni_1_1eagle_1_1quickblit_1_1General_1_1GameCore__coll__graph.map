@@ -1,0 +1,9 @@
+<map id="uni.eagle.quickblit.General.GameCore" name="uni.eagle.quickblit.General.GameCore">
+<area shape="rect" id="node4" href="$classuni_1_1eagle_1_1quickblit_1_1IO_1_1InputHandler.html" title="liefert die Möglichkeit Tastatureingaben zu verarbeiten. " alt="" coords="323,107,500,149"/>
+<area shape="rect" id="node6" href="$classuni_1_1eagle_1_1quickblit_1_1IO_1_1InputHandler_1_1Key.html" title="Internals. " alt="" coords="5,162,183,203"/>
+<area shape="rect" id="node7" href="$enumuni_1_1eagle_1_1quickblit_1_1General_1_1Enums_1_1GameState.html" title="liefert den Aktuellen Status des Spiels – sollte Selbsterklärend sein " alt="" coords="322,173,501,214"/>
+<area shape="rect" id="node9" href="$classuni_1_1eagle_1_1quickblit_1_1IO_1_1FontController.html" title="Stellt einen Controller zur Verfügung der eine Schriftart aus einer Bilddatei laden kann und eine sma..." alt="" coords="324,303,499,345"/>
+<area shape="rect" id="node12" href="$classuni_1_1eagle_1_1quickblit_1_1General_1_1UpdateController.html" title="Diese Klasse wird über den LoadParser mit den richtigen Einstellungen geladen. " alt="" coords="322,421,501,462"/>
+<area shape="rect" id="node13" href="$classuni_1_1eagle_1_1quickblit_1_1IO_1_1Sound_1_1SoundController.html" title="liefert die Möglichkeit Sound zu spielen. " alt="" coords="317,486,506,527"/>
+<area shape="rect" id="node16" href="$classuni_1_1eagle_1_1quickblit_1_1Management_1_1Configuration.html" title="liefert Einstellungen " alt="" coords="307,654,516,695"/>
+</map>

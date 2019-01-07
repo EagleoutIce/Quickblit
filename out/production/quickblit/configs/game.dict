@@ -1,0 +1,4 @@
+//Dummy Dictonary
+//Used for testing
+H = /graphics/floors/oak_planks.png:0,0
+S = /graphics/floors/rocks_cellar.png:0,0

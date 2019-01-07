@@ -1,0 +1,10 @@
+<map id="uni.eagle.quickblit.Game.Player.Player" name="uni.eagle.quickblit.Game.Player.Player">
+<area shape="rect" id="node2" href="$interfaceuni_1_1eagle_1_1quickblit_1_1General_1_1Interfaces_1_1iRenderable.html" title="uni.eagle.quickblit.General.\lInterfaces.iRenderable" alt="" coords="9,122,188,164"/>
+<area shape="rect" id="node5" href="$classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1Sprite.html" title="uni.eagle.quickblit.Graphics.\lSprite" alt="" coords="313,220,500,261"/>
+<area shape="rect" id="node7" href="$classuni_1_1eagle_1_1quickblit_1_1IO_1_1MessageBox.html" title="ermöglicht es eine Nachrichten Meldung auf den Bildschirm zu klatschen " alt="" coords="609,219,833,246"/>
+<area shape="rect" id="node10" href="$classuni_1_1eagle_1_1quickblit_1_1Game_1_1Player_1_1Weapon.html" title="Liefert die Möglichkeit eine Waffe aufs Display zu bringen &#45; kann aus Zeitgründen nicht angreifen..." alt="" coords="637,117,806,158"/>
+<area shape="rect" id="node3" href="$interfaceuni_1_1eagle_1_1quickblit_1_1General_1_1Interfaces_1_1iPoint.html" title="uni.eagle.quickblit.General.\lInterfaces.iPoint" alt="" coords="9,297,188,338"/>
+<area shape="rect" id="node4" href="$enumuni_1_1eagle_1_1quickblit_1_1Game_1_1Player_1_1Direction.html" title="macht Richtungen lesbarer &#45; sollte selbsterklärend sein. " alt="" coords="322,26,491,68"/>
+<area shape="rect" id="node6" href="$classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1SpriteSheet.html" title="uni.eagle.quickblit.Graphics.\lSpriteSheet" alt="" coords="5,220,192,261"/>
+<area shape="rect" id="node8" href="$classuni_1_1eagle_1_1quickblit_1_1IO_1_1FontController.html" title="Stellt einen Controller zur Verfügung der eine Schriftart aus einer Bilddatei laden kann und eine sma..." alt="" coords="319,356,494,397"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="uni.eagle.quickblit.General.Interfaces.iCustomFilter" name="uni.eagle.quickblit.General.Interfaces.iCustomFilter">
+<area shape="rect" id="node2" href="$classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1Filter_1_1BlurFilter.html" title="uni.eagle.quickblit.Graphics.\lFilter.BlurFilter" alt="" coords="232,5,419,47"/>
+<area shape="rect" id="node3" href="$classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1Filter_1_1GaussianFilter.html" title="uni.eagle.quickblit.Graphics.\lFilter.GaussianFilter" alt="" coords="232,71,419,112"/>
+</map>

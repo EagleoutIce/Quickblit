@@ -1,0 +1,8 @@
+//Config file Version 1.0
+NAME    = The Binding of Some Random Student
+width   = 608
+height  = 416
+scale   = 2
+filter = YES
+tilesize = 32
+FPS=128

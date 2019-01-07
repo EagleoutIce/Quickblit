@@ -1,0 +1,14 @@
+<map id="uni.eagle.quickblit.Demo.Firework.DemoFirework" name="uni.eagle.quickblit.Demo.Firework.DemoFirework">
+<area shape="rect" id="node2" href="$classuni_1_1eagle_1_1quickblit_1_1General_1_1GameCore.html" title="uni.eagle.quickblit.General.\lGameCore" alt="" coords="671,371,849,412"/>
+<area shape="rect" id="node5" href="$classuni_1_1eagle_1_1quickblit_1_1IO_1_1InputHandler.html" title="liefert die Möglichkeit Tastatureingaben zu verarbeiten. " alt="" coords="323,539,500,580"/>
+<area shape="rect" id="node7" href="$classuni_1_1eagle_1_1quickblit_1_1IO_1_1InputHandler_1_1Key.html" title="Internals. " alt="" coords="5,509,183,551"/>
+<area shape="rect" id="node8" href="$enumuni_1_1eagle_1_1quickblit_1_1General_1_1Enums_1_1GameState.html" title="liefert den Aktuellen Status des Spiels – sollte Selbsterklärend sein " alt="" coords="322,604,501,645"/>
+<area shape="rect" id="node10" href="$classuni_1_1eagle_1_1quickblit_1_1IO_1_1FontController.html" title="Stellt einen Controller zur Verfügung der eine Schriftart aus einer Bilddatei laden kann und eine sma..." alt="" coords="324,71,499,112"/>
+<area shape="rect" id="node13" href="$classuni_1_1eagle_1_1quickblit_1_1General_1_1UpdateController.html" title="Diese Klasse wird über den LoadParser mit den richtigen Einstellungen geladen. " alt="" coords="322,188,501,229"/>
+<area shape="rect" id="node14" href="$classuni_1_1eagle_1_1quickblit_1_1IO_1_1Sound_1_1SoundController.html" title="liefert die Möglichkeit Sound zu spielen. " alt="" coords="317,253,506,295"/>
+<area shape="rect" id="node17" href="$classuni_1_1eagle_1_1quickblit_1_1Management_1_1Configuration.html" title="liefert Einstellungen " alt="" coords="307,371,516,412"/>
+<area shape="rect" id="node18" href="$classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1Sprite.html" title="uni.eagle.quickblit.Graphics.\lSprite" alt="" coords="667,744,853,785"/>
+<area shape="rect" id="node19" href="$interfaceuni_1_1eagle_1_1quickblit_1_1General_1_1Interfaces_1_1iRenderable.html" title="uni.eagle.quickblit.General.\lInterfaces.iRenderable" alt="" coords="322,852,501,893"/>
+<area shape="rect" id="node20" href="$interfaceuni_1_1eagle_1_1quickblit_1_1General_1_1Interfaces_1_1iPoint.html" title="uni.eagle.quickblit.General.\lInterfaces.iPoint" alt="" coords="322,721,501,763"/>
+<area shape="rect" id="node21" href="$classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1SpriteSheet.html" title="uni.eagle.quickblit.Graphics.\lSpriteSheet" alt="" coords="318,787,505,828"/>
+</map>

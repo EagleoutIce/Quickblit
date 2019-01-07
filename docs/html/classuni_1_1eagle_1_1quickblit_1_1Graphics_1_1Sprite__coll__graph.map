@@ -1,0 +1,5 @@
+<map id="uni.eagle.quickblit.Graphics.Sprite" name="uni.eagle.quickblit.Graphics.Sprite">
+<area shape="rect" id="node2" href="$interfaceuni_1_1eagle_1_1quickblit_1_1General_1_1Interfaces_1_1iRenderable.html" title="uni.eagle.quickblit.General.\lInterfaces.iRenderable" alt="" coords="9,5,188,47"/>
+<area shape="rect" id="node3" href="$interfaceuni_1_1eagle_1_1quickblit_1_1General_1_1Interfaces_1_1iPoint.html" title="uni.eagle.quickblit.General.\lInterfaces.iPoint" alt="" coords="9,71,188,112"/>
+<area shape="rect" id="node4" href="$classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1SpriteSheet.html" title="uni.eagle.quickblit.Graphics.\lSpriteSheet" alt="" coords="5,136,192,177"/>
+</map>

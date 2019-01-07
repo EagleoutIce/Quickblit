@@ -1,0 +1,7 @@
+<map id="Grafische Darstellung der Klassenhierarchie" name="Grafische Darstellung der Klassenhierarchie">
+<area shape="rect" id="node2" href="$classuni_1_1eagle_1_1quickblit_1_1General_1_1GameCore.html" title="uni.eagle.quickblit.General.\lGameCore" alt="" coords="131,104,309,145"/>
+<area shape="rect" id="node3" href="$classuni_1_1eagle_1_1quickblit_1_1Demo_1_1Firework_1_1DemoFirework.html" title="uni.eagle.quickblit.Demo.\lFirework.DemoFirework" alt="" coords="375,5,544,47"/>
+<area shape="rect" id="node4" href="$classuni_1_1eagle_1_1quickblit_1_1Demo_1_1Test_1_1Testing.html" title="uni.eagle.quickblit.Demo.\lTest.Testing" alt="" coords="375,71,544,112"/>
+<area shape="rect" id="node5" href="$classuni_1_1eagle_1_1quickblit_1_1Demo_1_1Test_1_1Testtoo.html" title="diese Klasse ist zur deomstration der Grundlegenden Strutktur für eine Klasse, die auf der Engine bas..." alt="" coords="375,136,544,177"/>
+<area shape="rect" id="node6" href="$classuni_1_1eagle_1_1quickblit_1_1Game_1_1Game.html" title="die Game Klasse, sie erbt von GameCore und stellt so das Spiel zur Verfügung. " alt="" coords="357,202,561,229"/>
+</map>

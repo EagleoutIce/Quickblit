@@ -1,0 +1,14 @@
+<map id="uni.eagle.quickblit.Game.Entity.Enemy.Ghost" name="uni.eagle.quickblit.Game.Entity.Enemy.Ghost">
+<area shape="rect" id="node2" href="$classuni_1_1eagle_1_1quickblit_1_1Game_1_1Entity_1_1Enemy_1_1Enemy.html" title="Erweitert die Entity&#45;Klasse um Eigenschaften eines Gegners. " alt="" coords="1269,151,1438,193"/>
+<area shape="rect" id="node3" href="$classuni_1_1eagle_1_1quickblit_1_1Game_1_1Entity_1_1Entity.html" title="liefert die Entity Struktur, jede Kreatur/jedes Item erbt von dieser Kreatur " alt="" coords="636,127,805,169"/>
+<area shape="rect" id="node4" href="$interfaceuni_1_1eagle_1_1quickblit_1_1General_1_1Interfaces_1_1iRenderable.html" title="uni.eagle.quickblit.General.\lInterfaces.iRenderable" alt="" coords="21,171,199,213"/>
+<area shape="rect" id="node6" href="$classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1Sprite.html" title="uni.eagle.quickblit.Graphics.\lSprite" alt="" coords="311,170,498,211"/>
+<area shape="rect" id="node10" href="$classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1Map_1_1Map.html" title="uni.eagle.quickblit.Graphics.\lMap.Map" alt="" coords="627,193,814,234"/>
+<area shape="rect" id="node5" href="$interfaceuni_1_1eagle_1_1quickblit_1_1General_1_1Interfaces_1_1iPoint.html" title="uni.eagle.quickblit.General.\lInterfaces.iPoint" alt="" coords="21,54,199,95"/>
+<area shape="rect" id="node9" href="$classuni_1_1eagle_1_1quickblit_1_1Management_1_1Pathfinder.html" title="uni.eagle.quickblit.Management.\lPathfinder" alt="" coords="936,93,1145,134"/>
+<area shape="rect" id="node7" href="$classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1SpriteSheet.html" title="uni.eagle.quickblit.Graphics.\lSpriteSheet" alt="" coords="17,263,203,305"/>
+<area shape="rect" id="node8" href="$classuni_1_1eagle_1_1quickblit_1_1General_1_1Helper.html" title="stellt einige Hilfsfunktionen zur Verfügung " alt="" coords="631,258,810,299"/>
+<area shape="rect" id="node11" href="$classuni_1_1eagle_1_1quickblit_1_1Management_1_1SpriteTranslator.html" title="Liefert einen Übersetzer für Sprite informationen. " alt="" coords="300,307,509,349"/>
+<area shape="rect" id="node12" href="$classuni_1_1eagle_1_1quickblit_1_1Management_1_1Translator.html" title="uni.eagle.quickblit.Management.\lTranslator\&lt; Sprite \&gt;" alt="" coords="5,329,215,370"/>
+<area shape="rect" id="node13" href="$enumuni_1_1eagle_1_1quickblit_1_1Management_1_1Pathfinder_1_1Mode.html" title="uni.eagle.quickblit.Management.\lPathfinder.Mode" alt="" coords="616,62,825,103"/>
+</map>

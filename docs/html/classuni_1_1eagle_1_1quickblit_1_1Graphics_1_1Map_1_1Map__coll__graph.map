@@ -1,0 +1,8 @@
+<map id="uni.eagle.quickblit.Graphics.Map.Map" name="uni.eagle.quickblit.Graphics.Map.Map">
+<area shape="rect" id="node2" href="$interfaceuni_1_1eagle_1_1quickblit_1_1General_1_1Interfaces_1_1iRenderable.html" title="uni.eagle.quickblit.General.\lInterfaces.iRenderable" alt="" coords="21,5,199,47"/>
+<area shape="rect" id="node3" href="$classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1Sprite.html" title="uni.eagle.quickblit.Graphics.\lSprite" alt="" coords="311,72,498,113"/>
+<area shape="rect" id="node4" href="$interfaceuni_1_1eagle_1_1quickblit_1_1General_1_1Interfaces_1_1iPoint.html" title="uni.eagle.quickblit.General.\lInterfaces.iPoint" alt="" coords="21,71,199,112"/>
+<area shape="rect" id="node5" href="$classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1SpriteSheet.html" title="uni.eagle.quickblit.Graphics.\lSpriteSheet" alt="" coords="17,136,203,177"/>
+<area shape="rect" id="node6" href="$classuni_1_1eagle_1_1quickblit_1_1Management_1_1SpriteTranslator.html" title="Liefert einen Übersetzer für Sprite informationen. " alt="" coords="300,169,509,211"/>
+<area shape="rect" id="node7" href="$classuni_1_1eagle_1_1quickblit_1_1Management_1_1Translator.html" title="uni.eagle.quickblit.Management.\lTranslator\&lt; Sprite \&gt;" alt="" coords="5,201,215,243"/>
+</map>

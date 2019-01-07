@@ -1,0 +1,5 @@
+<map id="Grafische Darstellung der Klassenhierarchie" name="Grafische Darstellung der Klassenhierarchie">
+<area shape="rect" id="node1" href="$interfaceuni_1_1eagle_1_1quickblit_1_1General_1_1Interfaces_1_1iCustomFilter.html" title="uni.eagle.quickblit.General.\lInterfaces.iCustomFilter" alt="" coords="5,39,184,80"/>
+<area shape="rect" id="node2" href="$classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1Filter_1_1BlurFilter.html" title="uni.eagle.quickblit.Graphics.\lFilter.BlurFilter" alt="" coords="232,5,419,47"/>
+<area shape="rect" id="node3" href="$classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1Filter_1_1GaussianFilter.html" title="uni.eagle.quickblit.Graphics.\lFilter.GaussianFilter" alt="" coords="232,71,419,112"/>
+</map>

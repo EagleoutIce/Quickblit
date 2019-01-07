@@ -1,0 +1,7 @@
+<map id="uni.eagle.quickblit.IO.MessageBox" name="uni.eagle.quickblit.IO.MessageBox">
+<area shape="rect" id="node2" href="$interfaceuni_1_1eagle_1_1quickblit_1_1General_1_1Interfaces_1_1iRenderable.html" title="uni.eagle.quickblit.General.\lInterfaces.iRenderable" alt="" coords="9,5,188,47"/>
+<area shape="rect" id="node4" href="$classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1Sprite.html" title="uni.eagle.quickblit.Graphics.\lSprite" alt="" coords="313,80,500,121"/>
+<area shape="rect" id="node3" href="$interfaceuni_1_1eagle_1_1quickblit_1_1General_1_1Interfaces_1_1iPoint.html" title="uni.eagle.quickblit.General.\lInterfaces.iPoint" alt="" coords="9,143,188,184"/>
+<area shape="rect" id="node5" href="$classuni_1_1eagle_1_1quickblit_1_1Graphics_1_1SpriteSheet.html" title="uni.eagle.quickblit.Graphics.\lSpriteSheet" alt="" coords="5,72,192,113"/>
+<area shape="rect" id="node6" href="$classuni_1_1eagle_1_1quickblit_1_1IO_1_1FontController.html" title="Stellt einen Controller zur Verfügung der eine Schriftart aus einer Bilddatei laden kann und eine sma..." alt="" coords="319,208,494,249"/>
+</map>
