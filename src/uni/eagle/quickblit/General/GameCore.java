@@ -28,7 +28,7 @@ import java.util.Random;
 /**
  * @mainpage Quickblit Engine
  * @author Florian Sihler
- * @author Rapahel Straub
+ * @author Raphael Straub
  * 
  * @note diese Dokumentation wurde ohne weitere Anpassungen mithilfe von Doxygen anhand der Kommentare generiert. Das dafür verwendete Template stammt von Florian Sihler
  *
